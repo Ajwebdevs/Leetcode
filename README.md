@@ -17,5 +17,10 @@ This repository is dedicated to my journey of solving problems on LeetCode. It s
 The repository is organized by problem category and difficulty level. Each problem has its own folder containing:
 - The problem statement
 - The solution code
-- A brief explanation of the approach
+
+## Usage
+To use the solutions in this repository:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Ajwebdevs/Leetcode.git
 
