@@ -20,7 +20,23 @@ The repository is organized by problem category and difficulty level. Each probl
 
 ## Usage
 To use the solutions in this repository:
-1. Clone the repository:
+Clone the repository:
    ```bash
    git clone https://github.com/Ajwebdevs/Leetcode.git
+
+## Contributing
+I welcome contributions to improve the solutions or add new ones. To contribute:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bugfix:
+   ```bash
+   git checkout -b feature/YourFeatureName
+3. Commit your changes:
+   ```bash
+   git commit -m 'Add some feature'
+4. Push to the branch:
+   ```bash
+   git push origin feature/YourFeatureName
+5. Open a pull request.
+
 
